@@ -6,7 +6,8 @@ In the space below, make a three column table of the current courses you are tak
 
 See `complete` branch for answers.
 
-
-_CSE_ **414** teacherA
-_CSE_ **421** teacherB
-_INFO_ **201** teacherC
+| COURE NAME | COURSE NUMBER | TEACHER |
+| ---------- | ------------- | ------- |
+| _CSE_  | **414** | teacherA |
+| _CSE_  | **421** | teacherB |
+| _INFO_ | **201** | teacherC |
