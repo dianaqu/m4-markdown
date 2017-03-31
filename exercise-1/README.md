@@ -7,4 +7,6 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 See `complete` branch for an example.
 
 "To be, or not to be"
+```
 https://www.enotes.com/shakespeare-quotes/not-that-question
+```
