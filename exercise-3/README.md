@@ -14,7 +14,7 @@ See `complete` branch for answers.
 
 # pwd
 
-> Use `pwd` to print the working direcotry
+``` Use `pwd` to print the working direcotry ```
 
 Here's some more information about the `pwd` command:
 
